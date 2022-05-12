@@ -1,9 +1,37 @@
-- 👋 Hi, I’m @Csasaka19
-- 👀 I’m interested in coding and football
-- 🌱 I’m currently learning applied computer science
-- 💞️ I’m looking to collaborate on various git projects 
-- 📫 How to reach me any time
-- 
+ # INTRODUCTION
+ # 👋
+ Hi, my name is Clive Sasaka
+ # 👋 
+ 
+ # INTERESTS
+ # 👀 
+ Coding and programming 
+ Chess
+ Football
+ Reading manga and comics
+ Gaming
+ # 👀
+  
+ # CURRENT ACTIVITIES
+ # 🌱
+ I’m currently studying at Daystar University for a bachelor's degree in applied computer science
+ Living in Nairobi, Kenya
+ # 🌱
+ 
+ # FUTURE PLANS
+  # 💞️
+  To be better in tech and coding
+  To have many useful project repositories on various programming  languages as possible
+  To collaborate on various projects across github
+  # 💞️
+  
+  # MEDIA
+ # 📫 
+ Instagram  @ cc_incognitto20
+ Twitter    @ CCIncognitto
+ Email      @ clivesasaka@gmail.com
+ # 📫 
+ 
 
 <!---
 Csasaka19/Csasaka19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
