@@ -8,7 +8,7 @@ My mission is to leverage the power of code to bring innovative solutions to lif
 
 Let's connect, collaborate, and turn dreams into reality. Reach out to me through the contact details below, and let's embark on an exciting coding adventure together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Csasaka19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Csasaka19&langs_count=10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
