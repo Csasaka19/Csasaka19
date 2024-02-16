@@ -8,6 +8,10 @@ My mission is to leverage the power of code to bring innovative solutions to lif
 
 Let's connect, collaborate, and turn dreams into reality. Reach out to me through the contact details below, and let's embark on an exciting coding adventure together!
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Csasaka19/repos?time_range=three_year&theme=classic)](https://githubtrends.io)  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Csasaka19/langs?time_range=three_year&compact=True&theme=classic)](https://githubtrends.io)
+
+<figure><embed src="https://wakatime.com/share/@018c5e2f-5508-45e8-a08b-ca039be9381f/94890531-f727-42ac-8c46-3e96bdf02c40.svg"></embed></figure>
+
 
 
 
