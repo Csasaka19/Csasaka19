@@ -8,7 +8,8 @@ My mission is to leverage the power of code to bring innovative solutions to lif
 
 Let's connect, collaborate, and turn dreams into reality. Reach out to me through the contact details below, and let's embark on an exciting coding adventure together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Csasaka19&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Csasaka19/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Csasaka19/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 
 
