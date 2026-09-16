@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=180&section=header&text=Clive%20Sasaka&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Applied%20AI%20Engineer%20·%20Nairobi%20·%20UTC%2B3&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=180&section=header&text=Clive%20Sasaka&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Applied%20Software%20Automations Engineer%20·%20Nairobi%20·%20UTC%2B3&descAlignY=58&descSize=16" width="100%" />
 
 ### I build retrieval pipelines, agent workflows and the integrations around them — and I measure whether they actually work.
 
